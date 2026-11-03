@@ -6,7 +6,7 @@ namespace ZombieParty.Models
     {
         private readonly IWebHostEnvironment webHostEnvironment;
 
-        // (had to add dependency in constructeur, oops
+        // (had to add dependency in constructeur, oopsies
         public ImageFileManager(IWebHostEnvironment webHostEnvironment) {
             this.webHostEnvironment = webHostEnvironment;
         }
