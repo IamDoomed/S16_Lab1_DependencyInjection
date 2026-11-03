@@ -1,5 +1,6 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using System.Diagnostics;
+using ZombieParty.Controllers;
 using ZombieParty.ViewModels;
 
 namespace ZombieParty.Controllers
